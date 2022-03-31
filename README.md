@@ -1,7 +1,9 @@
 # Generative-chatbot
 This is my first generative chatbot project I have ever made. This was the final capstone of Codecademy's "Build Chatbots with Python" skill path.
 
-this is a generative, open-domain chatbot to allow it to interact with the user and talk about numerous subjects, instead of being confined to predetermined topics.
+this is a generative, open-domain chatbot to allow it to interact with the user and talk about numerous subjects, instead of being confined to predetermined topics. The chatbot reads the user input to generate a response based on what the user types into the console.
+
+To run this project locally, run the file "chat.py". I reccomend setting up tensorflow-gpu prior to running this program on your local machine.
 
 I built this project using:
 - Python 3
